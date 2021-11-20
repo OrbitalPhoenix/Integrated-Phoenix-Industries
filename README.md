@@ -15,6 +15,8 @@ Current compatibilities:
 - Connect Living Space
 - Bluedog Design Bureau
 - USI Life Support
+- Snacks!
+- Kerbalism
 
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license
 https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,6 +33,7 @@ Currently supported mods:
 -USI Life Support
 -Connected Living Space
 -Snacks!
+-Kerbalism
 
 
 
